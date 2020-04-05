@@ -1,0 +1,3 @@
+Online: true - 05/04/2020 14:25:11 - https://www.alura.com.br
+Online: false - 05/04/2020 14:25:12 - https://random-status-code.herokuapp.com/
+Online: true - 05/04/2020 14:25:12 - https://www.covidvisualizer.com/

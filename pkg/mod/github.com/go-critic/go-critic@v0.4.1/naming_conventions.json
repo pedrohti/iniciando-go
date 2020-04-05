@@ -1,0 +1,6 @@
+{
+    "ast\\.Node": {"param": {"node": "n"}},
+    "lintpack.CheckerContext": {
+        "param+local+field": {"ctxt": "ctx"}
+    }
+}
